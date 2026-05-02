@@ -1,4 +1,4 @@
-var TELEGRAM_TOKEN = '8481633989:AAEVeyE1n_LRkxeOfVqwsVKjoJR3X63kQOY';
+var TELEGRAM_TOKEN = "" ; #bottoken
 var SHEET_USERS = 'Users';
 var SHEET_LOGS = 'Logs';
 var SESSION_PROP = PropertiesService.getScriptProperties();
